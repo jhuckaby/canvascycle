@@ -1,6 +1,6 @@
 // Misc Tools
-// Copyright (c) 2010 Joseph Huckaby.
-// Released under the LGPL v3.0: http://www.opensource.org/licenses/lgpl-3.0.html
+// Copyright (c) 2010 - 2024 Joseph Huckaby and PixlCore.
+// MIT Licensed: https://github.com/jhuckaby/canvascycle/blob/main/LICENSE.md
 // getInnerWindowSize() was grabbed from: http://www.howtocreate.co.uk/tutorials/javascript/browserwindow
 
 function $(thingy) {

@@ -1,7 +1,7 @@
 // Color Cycling in HTML5 Canvas
 // BlendShift Technology conceived, designed and coded by Joseph Huckaby
-// Copyright (c) 2001-2002, 2010 Joseph Huckaby.
-// Released under the LGPL v3.0: http://www.opensource.org/licenses/lgpl-3.0.html
+// Copyright (c) 2010 - 2024 Joseph Huckaby and PixlCore.
+// MIT Licensed: https://github.com/jhuckaby/canvascycle/blob/main/LICENSE.md
 
 FrameCount.visible = false;
 

@@ -1,8 +1,8 @@
 // 8-bit Palette Classes for use in HTML5 Canvas
 // Ported from a C++ library written by Joseph Huckaby
 // BlendShift Technology conceived, designed and coded by Joseph Huckaby
-// Copyright (c) 2001-2002, 2010 Joseph Huckaby.
-// Released under the LGPL v3.0: http://www.opensource.org/licenses/lgpl-3.0.html
+// Copyright (c) 2001 - 2024 Joseph Huckaby and PixlCore.
+// MIT Licensed: https://github.com/jhuckaby/canvascycle/blob/main/LICENSE.md
 
 Class.create( 'Color', {
 	// represents one 24-bit RGB color

@@ -8,8 +8,8 @@
  * tree.set( "complex", { hello: "there", array: [1,2,3] } );
  * tree.save();
  * 
- * Copyright (c) 2007 Joseph Huckaby.
- * Released under the LGPL v3.0: http://www.opensource.org/licenses/lgpl-3.0.html
+ * Copyright (c) 2007 - 2024 Joseph Huckaby and PixlCore.
+ * MIT Licensed: https://github.com/jhuckaby/canvascycle/blob/main/LICENSE.md
  */
 
 /* if (!window.merge_objects || !window.serialize)
